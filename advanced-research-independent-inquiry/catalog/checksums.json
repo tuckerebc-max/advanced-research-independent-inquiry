@@ -1,0 +1,22 @@
+{
+  ".gitattributes": "613f2c996ac75349a4a6633c4b81a75d436ef7b7fed323a5e1929f2ec5a8b1da",
+  ".github/workflows/validate.yml": "e0846a41eb3a3414c0516b18fcd9948b3b57c9ff62d8c8023126b0382e1d4d3c",
+  ".gitignore": "2aa07deaa03ee2e95303fba7ba2692db3cfbb491bdbdbeebd50f87efb75efe2a",
+  "agents/openai.yaml": "23dcc94aa93444510c7a3074eb1bd70ed7b106524095533fab3f60ac6d1224ad",
+  "catalog/finalization-report.json": "6d1195dcf4c8512fcb62c67ecef3c4d290dc7ad2c3d94b58dac0df860e7d4866",
+  "catalog/handoff-route-registry.json": "53d9efe32b242e669c8d28531f056d653325d04294e7e4e4666d8386e02edf08",
+  "catalog/private-v1-release-status.json": "5fdd0b6dc823992ee6b995bc3ed7c3a9168656320cefcba3f5839930170c89bd",
+  "catalog/release-manifest.json": "4509dbd02ccba17208a4a96512d0d4afffadd05ce3bac5965e698839feb4b2fa",
+  "catalog/skill-catalog.json": "e05a0230f149f6bac2498c7afb498bde1c1d05ce3c496f4ac92a66ee0ff80605",
+  "catalog/source-manifest.json": "ac463178c9d8d109aec0410930ad4dc7427e3915cb49e24fbd3f8e4c82e09b76",
+  "README.md": "c0e25febae3d7460e8172fbdbbefe18f99fa65c189afc4b4f1088ce99a2dfe7c",
+  "references/construct-and-source-ledger.md": "8be2a83ddbb1e30d5b19274a0c4999d3521b6cba0eaf67fabe7570c1eb04068a",
+  "references/evaluation-fixtures.json": "97e9e7c3ccf95f0897fb6753f888c9fb8caf3b26c6b4d88ad5f999e28dc871b6",
+  "references/output-schema.json": "a49f398e8cf26c057b49e582fb4b6af3cd0ce1186e1b24568a6c9863276d7c66",
+  "scripts/build_release_manifest.py": "3095062c103bc8f3a481b78f800342f32f023b52499e98d10396e89bdd73b529",
+  "scripts/evaluate_package.py": "9356aaca0da247af8108c669f6e3793389f849f4b267559e6db09ba51a1106a3",
+  "scripts/validate_repository.py": "f129c4292cd15c540e3460f8cc0873e3c80c50ae2917d1a0ddcfd62cfea8539e",
+  "shared/schemas/interoperability-artifact-envelope.schema.json": "33be653aad470eec23b9858fa397c794cc11954fdc558d22631aa89635ba7139",
+  "SKILL.md": "688a966efb44b7ad4ecb52177ad2fdef0056752e14e40fb14e1f68e6309ae778",
+  "tests/fixtures/representative-record.json": "239b11503efd120784b75261df851fdbf9eb9b81334361e2de11d7c7387574a6"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Advanced Research and Inquiry"
+  short_description: "Design and defend bounded inquiry"
+  default_prompt: "Use $advanced-research-independent-inquiry to build a source-grounded inquiry plan with method fit, ethics, limitations, and defense evidence."
+policy:
+  allow_implicit_invocation: true
+

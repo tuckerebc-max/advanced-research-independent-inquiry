@@ -1,0 +1,10 @@
+{
+  "skill_id": "EXP-RES",
+  "fixtures": [{
+    "id": "RES-FIX-001",
+    "task": "Turn a broad inquiry topic into a focused question, source synthesis, method memo, low-risk evidence plan, limitations record, and oral-defense questions.",
+    "expected": ["focused question", "source synthesis", "method fit", "ethics/low-risk plan", "analysis", "limitations", "defense"],
+    "critical_failures": ["fabricated data", "invented approval", "method mismatch", "unqualified causal claim", "universal PhD claim"]
+  }]
+}
+

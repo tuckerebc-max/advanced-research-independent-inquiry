@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Advanced Research and Inquiry Artifact",
+  "type": "object",
+  "required": ["artifact_id", "status", "inquiry_contract", "question", "method_record", "limitations", "next_action"],
+  "properties": {
+    "artifact_id": {"type": "string"}, "status": {"type": "string"}, "inquiry_contract": {"type": "object"},
+    "question": {"type": "string"}, "source_synthesis": {"type": "array"}, "method_record": {"type": "object"},
+    "ethics_record": {"type": "object"}, "evidence_and_analysis": {"type": "array"}, "limitations": {"type": "array"},
+    "communication_artifact": {"type": "object"}, "defense_record": {"type": "array"}, "authorship_and_ai_log": {"type": "array"},
+    "next_action": {"type": "string"}
+  },
+  "additionalProperties": true
+}
